@@ -12,7 +12,7 @@ class Weapon
 
 class Player
 {
-    public int _health;
+    private int _health;
 
     public void TakeDamage(int damage)
     {
